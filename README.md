@@ -31,7 +31,23 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=website-f&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=website-f&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=website-f&theme=transparent&hide_border=true&v=2" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400&v=2" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=website-f&theme=react-dark&hide_border=true&bg_color=00000000&line=4c9eff&point=ffffff&area=true" alt="Activity Graph" />
 </p>
 
 ---
