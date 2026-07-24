@@ -8,6 +8,11 @@
 <img src="https://komarev.com/ghpvc/?username=website-f&label=Profile%20Views&color=00c6ff&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/website-f?label=Followers&style=flat&color=00c6ff" alt="followers"/>
 
+<br/><br/>
+
+<!-- Custom animated bash terminal, self-contained (no external GIFs to break) -->
+<img src="https://raw.githubusercontent.com/website-f/website-f/main/assets/terminal.svg" width="620"/>
+
 </div>
 
 <br/>
@@ -76,22 +81,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=website-f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=website-f&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=website-f&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00c6ff" alt="Most used languages"/>
 
 </div>
 
