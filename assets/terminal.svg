@@ -19,8 +19,8 @@
       <rect x="0" y="20" height="20" width="0">
         <animate attributeName="width"
           values="0;0;215.2;215.2"
-          keyTimes="0;0.0000;0.0451;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.0000;0.0471;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="34" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#4ade80" clip-path="url(#clip0)">fitri@github:~$ whoami</text>
@@ -29,8 +29,8 @@
       <rect x="0" y="46" height="20" width="0">
         <animate attributeName="width"
           values="0;0;224.79999999999998;224.79999999999998"
-          keyTimes="0;0.0861;0.1332;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.0900;0.1392;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="60" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#38bdf8" clip-path="url(#clip1)">&gt; Mohd Fitri Bin Mansor</text>
@@ -39,8 +39,8 @@
       <rect x="0" y="72" height="20" width="0">
         <animate attributeName="width"
           values="0;0;272.8;272.8"
-          keyTimes="0;0.1742;0.2316;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.1821;0.2420;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="86" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#4ade80" clip-path="url(#clip2)">fitri@github:~$ cat role.txt</text>
@@ -48,19 +48,19 @@
     <clipPath id="clip3">
       <rect x="0" y="98" height="20" width="0">
         <animate attributeName="width"
-          values="0;0;416.8;416.8"
-          keyTimes="0;0.2726;0.3607;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          values="0;0;215.2;215.2"
+          keyTimes="0;0.2849;0.3320;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
-    <text x="16" y="112" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#38bdf8" clip-path="url(#clip3)">&gt; Full-Stack Developer @ Crave Asia Sdn Bhd</text>
+    <text x="16" y="112" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#38bdf8" clip-path="url(#clip3)">&gt; Full-Stack Developer</text>
 
     <clipPath id="clip4">
       <rect x="0" y="124" height="20" width="0">
         <animate attributeName="width"
           values="0;0;253.6;253.6"
-          keyTimes="0;0.4017;0.4550;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.3748;0.4305;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="138" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#4ade80" clip-path="url(#clip4)">fitri@github:~$ ls skills/</text>
@@ -69,8 +69,8 @@
       <rect x="0" y="150" height="20" width="0">
         <animate attributeName="width"
           values="0;0;484;484"
-          keyTimes="0;0.4960;0.5985;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.4733;0.5804;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="164" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#38bdf8" clip-path="url(#clip5)">&gt; laravel  react  go  fastapi  docker  n8n  ollama</text>
@@ -79,8 +79,8 @@
       <rect x="0" y="176" height="20" width="0">
         <animate attributeName="width"
           values="0;0;503.2;503.2"
-          keyTimes="0;0.6395;0.7461;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.6233;0.7347;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="190" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#4ade80" clip-path="url(#clip6)">fitri@github:~$ git commit -m "ship AI + automation"</text>
@@ -89,8 +89,8 @@
       <rect x="0" y="202" height="20" width="0">
         <animate attributeName="width"
           values="0;0;340;340"
-          keyTimes="0;0.7871;0.8588;1"
-          dur="21.955s" repeatCount="indefinite"/>
+          keyTimes="0;0.7775;0.8525;1"
+          dur="21.009999999999998s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <text x="16" y="216" font-family="Fira Code, Consolas, monospace" font-size="15.5" fill="#facc15" clip-path="url(#clip7)">&gt; 1 file changed, 999 insertions(+)</text>
@@ -98,57 +98,57 @@
     <rect x="230.2" y="21" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.0000;0.0000;0.0451;0.0451"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.0000;0.0000;0.0471;0.0471"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="239.79999999999998" y="47" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.0861;0.0861;0.1332;0.1332"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.0900;0.0900;0.1392;0.1392"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="287.8" y="73" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.1742;0.1742;0.2316;0.2316"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.1821;0.1821;0.2420;0.2420"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
-    <rect x="431.8" y="99" width="8" height="16" fill="#e5e5e5">
+    <rect x="230.2" y="99" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.2726;0.2726;0.3607;0.3607"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.2849;0.2849;0.3320;0.3320"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="268.6" y="125" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.4017;0.4017;0.4550;0.4550"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.3748;0.3748;0.4305;0.4305"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="499" y="151" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.4960;0.4960;0.5985;0.5985"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.4733;0.4733;0.5804;0.5804"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="518.2" y="177" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.6395;0.6395;0.7461;0.7461"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.6233;0.6233;0.7347;0.7347"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="355" y="203" width="8" height="16" fill="#e5e5e5">
       <animate attributeName="opacity"
         values="0;0;1;1;0"
-        keyTimes="0;0.7871;0.7871;0.8588;0.8588"
-        dur="21.955s" repeatCount="indefinite"/>
+        keyTimes="0;0.7775;0.7775;0.8525;0.8525"
+        dur="21.009999999999998s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>

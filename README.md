@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-- 🔭 Full-Stack Developer with **3+ years** building web apps, microservices, and automation pipelines
+- 🔭 Full-Stack Developer building web apps, microservices, and automation pipelines
 - 🧠 Deploying AI models locally (**Ollama + Qwen / LLaMA 3**) for smart search & content recommendations
 - ⚙️ Designing **n8n** workflows that cut manual reporting effort by ~40%
 - 🖥️ Managing production infra on **DigitalOcean VPS** — Docker, Nginx, SSL, CI/CD
@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00c6ff" alt="Most used languages"/>
+<img src="https://raw.githubusercontent.com/website-f/website-f/main/assets/lang-chart.svg" width="420"/>
 
 </div>
 
