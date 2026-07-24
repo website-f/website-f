@@ -1,65 +1,123 @@
-<h1 align="center">Hi, I'm Fitri 👋</h1>
+<div align="center">
 
-<p align="center">
-  A developer exploring web &amp; desktop apps — building, breaking, and learning along the way.
-</p>
+<!-- Custom-built animated hero: orbiting tech ring (Docker, React, Laravel, Go, Python, PostgreSQL) + rotating terminal text -->
+<img src="https://raw.githubusercontent.com/website-f/website-f/main/assets/hero-banner.svg" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/website-f?tab=followers">
-    <img src="https://img.shields.io/github/followers/website-f?label=Followers&style=flat-square&color=blue" alt="Followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=website-f&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views" />
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=website-f&label=Profile%20Views&color=00c6ff&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/website-f?label=Followers&style=flat&color=00c6ff" alt="followers"/>
 
-### 🧭 About Me
+</div>
 
-- 🔭 Currently working on personal web & desktop projects
-- 🌱 Always learning something new
-- 💬 Ask me about anything I've built — happy to chat
-- 📫 Reach me on GitHub: [@website-f](https://github.com/website-f)
+<br/>
 
----
+## 👋 About Me
 
-### 📊 GitHub Stats
+- 🔭 Full-Stack Developer with **3+ years** building web apps, microservices, and automation pipelines
+- 🧠 Deploying AI models locally (**Ollama + Qwen / LLaMA 3**) for smart search & content recommendations
+- ⚙️ Designing **n8n** workflows that cut manual reporting effort by ~40%
+- 🖥️ Managing production infra on **DigitalOcean VPS** — Docker, Nginx, SSL, CI/CD
+- ⚡ Background in Electronic Engineering → strong hardware-software integration
+- 📍 Based in Puchong, Selangor, Malaysia
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/website-f&query=$.public_repos&label=Public%20repos&color=4c9eff&style=for-the-badge&logo=github" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/website-f?label=Followers&style=for-the-badge&color=4c9eff&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/website-f&query=$.following&label=Following&color=4c9eff&style=for-the-badge&logo=github" alt="Following" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=website-f&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
-</p>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=website-f&theme=transparent&hide_border=true&v=2" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400&v=2" alt="Top Languages" />
-</p>
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 📈 Activity Graph
+<img src="https://skillicons.dev/icons?i=js,php,python,go,react,nextjs,laravel,django,fastapi,flask,docker,nginx,postgres,git,linux,figma&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=website-f&theme=react-dark&hide_border=true&bg_color=00000000&line=4c9eff&point=ffffff&area=true" alt="Activity Graph" />
-</p>
+</div>
 
----
+<br/>
 
-### 🏆 Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=website-f&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+**AI & LLMs**
+<br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen-6236FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
----
+</div>
 
-<p align="center">
-  <i>Thanks for stopping by ✨</i>
-</p>
+<br/>
+
+## 🚀 Featured Project — OrionDesk
+
+<div align="center">
+
+<a href="https://oriondesk.space" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=60&section=header&text=OrionDesk&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</a>
+
+<a href="https://oriondesk.space" target="_blank">
+  <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Foriondesk.space?w=900" width="80%" alt="OrionDesk live preview" style="border-radius:10px; margin-top:10px;"/>
+</a>
+
+<br/><br/>
+
+🔗 **Live:** [oriondesk.space](https://oriondesk.space)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=website-f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=website-f&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=website-f&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=website-f&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/website-f/website-f/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/website-f/website-f/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mohdfitri1017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://website-f.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://oriondesk.space" target="_blank"><img src="https://img.shields.io/badge/OrionDesk-00C6FF?style=for-the-badge&logo=safari&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>

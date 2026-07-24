@@ -1,0 +1,124 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#123a52"/>
+      <stop offset="55%" stop-color="#0b1e2d"/>
+      <stop offset="100%" stop-color="#050b10"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="50%" stop-color="#38f9d7"/>
+      <stop offset="100%" stop-color="#00c6ff"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="340" fill="url(#bgGlow)"/>
+
+  <!-- floating particles -->
+  <g fill="#00c6ff" opacity="0.5">
+    <circle cx="80" cy="300" r="2.4">
+      <animate attributeName="cy" values="300;20;300" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="320" r="1.8">
+      <animate attributeName="cy" values="320;10;320" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="310" r="2.2">
+      <animate attributeName="cy" values="310;15;310" dur="10s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="10s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="300" r="1.6">
+      <animate attributeName="cy" values="300;25;300" dur="11s" begin="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="11s" begin="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- orbiting tech ring (center-left) -->
+  <g transform="translate(150,170)">
+    <circle r="118" fill="none" stroke="#1c3a4d" stroke-width="1" stroke-dasharray="2 6"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="24s" repeatCount="indefinite"/>
+
+      <g transform="translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=docker" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+
+      <g transform="rotate(60) translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=react" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="-60 0 0" to="-420 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+
+      <g transform="rotate(120) translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=laravel" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="-480 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+
+      <g transform="rotate(180) translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=go" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="-180 0 0" to="-540 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+
+      <g transform="rotate(240) translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=python" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+
+      <g transform="rotate(300) translate(118,0)">
+        <circle r="26" fill="#0d2230" filter="url(#softGlow)"/>
+        <image href="https://skillicons.dev/icons?i=postgres" x="-16" y="-16" width="32" height="32">
+          <animateTransform attributeName="transform" type="rotate" from="-300 0 0" to="-660 0 0" dur="24s" repeatCount="indefinite"/>
+        </image>
+      </g>
+    </g>
+
+    <!-- center avatar ring -->
+    <circle r="46" fill="#0a1a26" stroke="url(#nameGrad)" stroke-width="2"/>
+    <text x="0" y="8" text-anchor="middle" font-family="Fira Code, monospace" font-size="26" fill="#e8f6ff" font-weight="700">FM</text>
+  </g>
+
+  <!-- name + rotating role text -->
+  <g transform="translate(320,110)">
+    <text x="0" y="0" font-family="Fira Code, monospace" font-size="34" font-weight="700" fill="url(#nameGrad)">Mohd Fitri Mansor</text>
+    <text x="0" y="34" font-family="Fira Code, monospace" font-size="15" fill="#8ea9b8">Full-Stack Developer · Automation &amp; AI Systems</text>
+
+    <g font-family="Fira Code, monospace" font-size="19" fill="#38f9d7">
+      <text x="0" y="90" opacity="0">
+        &gt; deploying AI models with Ollama + LLaMA
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="0" y="90" opacity="0">
+        &gt; automating workflows with n8n
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.33;0.38;0.61;0.66" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="0" y="90" opacity="0">
+        &gt; shipping full-stack apps end to end
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.66;0.71;0.94;1" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <rect x="0" y="78" width="10" height="18" fill="#38f9d7">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
