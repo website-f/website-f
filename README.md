@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://oriondesk.space" target="_blank">
-  <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Foriondesk.space?w=900" width="80%" alt="OrionDesk live preview" style="border-radius:10px; margin-top:10px;"/>
+  <img src="https://raw.githubusercontent.com/website-f/website-f/main/assets/oriondesk-preview.svg" width="80%" alt="OrionDesk preview" style="border-radius:10px; margin-top:10px;"/>
 </a>
 
 <br/><br/>
